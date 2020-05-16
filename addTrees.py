@@ -49,6 +49,6 @@ preOrder(t2)
 
 
 preOrder(addTrees(t1,t1))
-preOrder(addTrees(t2,t1))
+preOrder(addTrees(t2,t))
 
 
